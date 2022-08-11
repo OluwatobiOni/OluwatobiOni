@@ -1,9 +1,9 @@
 ## Hi!👋, I’m Tobi
 
-### I'm a data analyst and a pharmacist with demonstrated experience in the healthcare industry
+### A data analyst and a pharmacist with demonstrated experience in the healthcare industry
 - 👀 I’m interested in business intelligence, business analytics, and healthcare analytics
-- 🌱 I’m currently learning everything around data analytics 🤣🤣
-- 💞️ I’m looking to collaborate on data science and data analytics projects
+- 🌱 Currently learning everything around data analytics 🤣🤣
+- 💞️ Looking to collaborate on data science and data analytics projects
 - 👩‍💻 I use SQL, Excel, PowerBI, and Python
 - 😉 Fun facts: I love dogs, all shades of blue, and superheroes
 
