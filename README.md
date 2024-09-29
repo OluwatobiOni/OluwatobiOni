@@ -1,10 +1,9 @@
 ## Hi!👋, I’m Tobi
 
-### A data analyst and a pharmacist with demonstrated experience in the healthcare industry
-- 👀 I’m interested in business intelligence, business analytics, and healthcare analytics
-- 🌱 Currently learning everything around data analytics 🤣🤣
-- 💞️ Looking to collaborate on data science and data analytics projects
-- 👩‍💻 I use SQL, Excel, PowerBI, and Python
+### A health data scientist with a background in pharmacy
+- 👀 I’m interested in everything health data 
+- 💞️ Looking to collaborate on AI, and data science and analytics projects
+- 👩‍💻 I use SQL, R, Excel, PowerBI, and Python
 - 😉 Fun facts: I love dogs, all shades of blue, and superheroes
 
 ### Connect with me: 
@@ -17,7 +16,7 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/oluwatobioni/
-[twitter]: https://twitter.com/oluwatobi_oe
+[twitter]: https://twitter.com/oluwatobi_eo
 [linktree]: https://linktr.ee/oluwatobioni
 
 <!---
