@@ -2,7 +2,7 @@
 
 ### A health data scientist with a background in pharmacy
 - 👀 I’m interested in everything health data 
-- 💞️ Looking to collaborate on AI, and data science and analytics projects
+- 🤝 Looking to collaborate on AI, and data science and analytics projects
 - 👩‍💻 I use SQL, R, Excel, PowerBI, and Python
 - 😉 Fun facts: I love dogs, all shades of blue, and superheroes
 <!---
