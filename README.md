@@ -5,7 +5,7 @@
 - 👀 Fun fact: I was a pharmacist before I switched career into data
 - 🤝 I would love to collaborate on data science and AI projects that improve healthcare
 - 👩‍💻 I use R, Python, SQL, Excel, and PowerBI
-- 😉 I love dogs, all shades of blue, and superheroes (Superman is my favourite)
+- 😉 I love dogs, all shades of blue, and superheroes
 
 ## Feel free to look at some of my work here, and reach out to me if you'd love to work together on something. Cheers!
 <!---
