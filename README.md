@@ -7,7 +7,7 @@
 - 👩‍💻 I use R, Python, SQL, Excel, and PowerBI
 - 😉 I love dogs, all shades of blue, and superheroes
 
-## Feel free to look at some of my work here, and reach out to me if you'd love to work together on something. Cheers!
+## Feel free to reach out to me if you'd love to collaborate on a project!
 <!---
 OluwatobiOni/OluwatobiOni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
